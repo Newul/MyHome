@@ -33,6 +33,8 @@ public class danli {
 
     }
 
+
+
     public static double calutenp(){
         double F,n,i,f;
         Scanner scanner =new Scanner (System.in );
